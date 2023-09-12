@@ -1,5 +1,6 @@
-import pyautogui as pag
 import time
+
+import pyautogui as pag
 
 pag.FAILSAFE=False
 
